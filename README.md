@@ -1,4 +1,4 @@
-## �‍💻 Lista de Exercícios
+## 💻 Lista de Exercícios
 
 ### 1. Soma de Elementos
 Crie um programa que leia um vetor de 5 números inteiros e exiba a soma de todos os valores.
@@ -107,7 +107,7 @@ Saída:
     @
  @@@ 
 
-###Tecnologias
+### Tecnologias
 Java
 
 Arrays (vetores)
